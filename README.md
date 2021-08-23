@@ -11,5 +11,5 @@ Python
 
 
 <h2> CREDITS </h2>
-<h3> ~>Tim Ruscica </h3>
+<h3> ~> Tim Ruscica </h3>
 <h3> ~> Kaushtub Gautam </h3> ( Discord id -> AQUAKG#4077)
